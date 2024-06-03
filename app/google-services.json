@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "445353430455",
+    "project_id": "everidoor-campaign",
+    "storage_bucket": "everidoor-campaign.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445353430455:android:75ef64882b70d2c5f12c32",
+        "android_client_info": {
+          "package_name": "com.everidoor.campaign"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv83i6TMKar8PLhCWKbEE-QAQAqBIu8cs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
